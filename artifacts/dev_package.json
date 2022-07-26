@@ -1,0 +1,47 @@
+{
+	"id": "363612DE-D30C-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-26T11:12:43.176Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-mobilenativedocviewer",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-mobilenativedocviewer",
+	"description": null,
+	"ver": "22.7.26.1113",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "0D9B5851-ECBE-42E4-8979-D48A82F44945",
+			"ver": "22.7.26.1312",
+			"application": "neptbb_native_docviewer",
+			"title": "Native Mobile Document Viewer",
+			"description": "UTIL"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
